@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Marcelo Monari Baccaro and I'm a Mechatronics Engineer.
+- 👀 I’m interested in Robotics, Power Electronics, Electrical Machines, Control Theory, Computer Vision and Machine Learning.
+- 🌱 I’m currently learning Advanced Dynamics for Robotics, Data-Driven Control and Electrical Motors Drivers.
+- 💞️ I’m looking to collaborate on Robotic Systems Design from ground up!!
+- 📫 Contact me on my LinkedIn: https://www.linkedin.com/in/marcelo-monari-baccaro-8834b2235/
